@@ -1,0 +1,13 @@
+{
+    "name": "com.falmouth.louisunityextensions",
+    "version": "0.0.1",
+    "displayName": "Louis' Unity Extensions",
+    "description": "Louis Ashton's Unity extensions package to be used between projects",
+    "unity": "2022.3",
+    "unityRelease": "2f1",
+    "author": {
+      "name": "Louis Ashton",
+      "email": "louisjamesashton@gmail.com",
+      "url": "https://github.falmouth.ac.uk/LA301830/LouisUnityExtensions.git"
+    }
+  }
